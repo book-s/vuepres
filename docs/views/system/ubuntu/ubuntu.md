@@ -130,7 +130,7 @@ network:
             - 192.168.120.8/24
             dhcp4: false
             gateway4: 192.168.120.1
-           nameservers:
+            nameservers:
                 addresses:
                 - 8.8.8.8
                 search: []
